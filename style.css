@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+.info{
+    width: 60%;
+    height: 100%;
+    font-size: 18px;
+}
+.float{
+    float: left;
+    margin-right: 10px;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+}
